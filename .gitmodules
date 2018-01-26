@@ -1,0 +1,15 @@
+[submodule "teamcity-docker-agent-osx"]
+	path = teamcity-docker-agent-osx
+	url = https://github.com/jeandet/teamcity-docker-agent-osx
+[submodule "teamcity-docker-complete-agent"]
+	path = teamcity-docker-complete-agent
+	url = https://github.com/jeandet/teamcity-docker-complete-agent
+[submodule "teamcity-docker-agent-freebsd"]
+	path = teamcity-docker-agent-freebsd
+	url = https://github.com/jeandet/teamcity-docker-agent-freebsd
+[submodule "teamcity-docker-minimal-agent"]
+	path = teamcity-docker-minimal-agent
+	url = https://github.com/jeandet/teamcity-docker-minimal-agent
+[submodule "teamcity-docker-SolarOrbiter-LFR-agent"]
+	path = teamcity-docker-SolarOrbiter-LFR-agent
+	url = https://github.com/jeandet/teamcity-docker-SolarOrbiter-LFR-agent
