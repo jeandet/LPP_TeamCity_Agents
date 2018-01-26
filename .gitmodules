@@ -13,3 +13,6 @@
 [submodule "teamcity-docker-SolarOrbiter-LFR-agent"]
 	path = teamcity-docker-SolarOrbiter-LFR-agent
 	url = https://github.com/jeandet/teamcity-docker-SolarOrbiter-LFR-agent
+[submodule "teamcity-docker-agent-debian-stable"]
+	path = teamcity-docker-agent-debian-stable
+	url = https://github.com/jeandet/teamcity-docker-agent-debian-stable
