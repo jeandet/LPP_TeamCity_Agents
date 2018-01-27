@@ -16,3 +16,6 @@
 [submodule "teamcity-docker-agent-debian-stable"]
 	path = teamcity-docker-agent-debian-stable
 	url = https://github.com/jeandet/teamcity-docker-agent-debian-stable
+[submodule "teamcity-docker-agent-ubuntu-17-10"]
+	path = teamcity-docker-agent-ubuntu-17-10
+	url = https://github.com/jeandet/teamcity-docker-agent-ubuntu-17-10
