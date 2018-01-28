@@ -19,3 +19,6 @@
 [submodule "teamcity-docker-agent-ubuntu-17-10"]
 	path = teamcity-docker-agent-ubuntu-17-10
 	url = https://github.com/jeandet/teamcity-docker-agent-ubuntu-17-10
+[submodule "teamcity-docker-VM-base-agent"]
+	path = teamcity-docker-VM-base-agent
+	url = https://github.com/jeandet/teamcity-docker-VM-base-agent.git

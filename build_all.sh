@@ -1,5 +1,6 @@
 #!/bin/bash
 repo_list="teamcity-docker-minimal-agent
+teamcity-docker-VM-base-agent
 teamcity-docker-agent-ubuntu-17-10
 teamcity-docker-complete-agent
 teamcity-docker-SolarOrbiter-LFR-agent
