@@ -25,3 +25,6 @@
 [submodule "teamcity-docker-agent-fedora-icc2017"]
 	path = teamcity-docker-agent-fedora-icc2017
 	url = https://github.com/jeandet/teamcity-docker-agent-fedora-icc2017
+[submodule "teamcity-docker-agent-fedora-icc2018"]
+	path = teamcity-docker-agent-fedora-icc2018
+	url = https://github.com/jeandet/teamcity-docker-agent-fedora-icc2018

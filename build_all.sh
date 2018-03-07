@@ -7,7 +7,8 @@ teamcity-docker-SolarOrbiter-LFR-agent
 teamcity-docker-agent-debian-stable
 teamcity-docker-agent-osx
 teamcity-docker-agent-freebsd
-teamcity-docker-agent-fedora-icc2017"
+teamcity-docker-agent-fedora-icc2017
+teamcity-docker-agent-fedora-icc2018"
 
 git submodule init
 git submodule update
