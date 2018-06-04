@@ -22,9 +22,6 @@
 [submodule "teamcity-docker-VM-base-agent"]
 	path = teamcity-docker-VM-base-agent
 	url = https://github.com/jeandet/teamcity-docker-VM-base-agent.git
-[submodule "teamcity-docker-agent-fedora-icc2017"]
-	path = teamcity-docker-agent-fedora-icc2017
-	url = https://github.com/jeandet/teamcity-docker-agent-fedora-icc2017
-[submodule "teamcity-docker-agent-fedora-icc2018"]
-	path = teamcity-docker-agent-fedora-icc2018
-	url = https://github.com/jeandet/teamcity-docker-agent-fedora-icc2018
+[submodule "teamcity-docker-agent-fedora-HPC"]
+	path = teamcity-docker-agent-fedora-HPC
+	url = https://github.com/jeandet/teamcity-docker-agent-fedora-HPC
