@@ -1,5 +1,7 @@
 #!/bin/bash
 repo_list="teamcity-docker-minimal-agent
+teamcity-docker-agent-fedora-lppic
+teamcity-docker-in-docker
 teamcity-docker-VM-base-agent
 teamcity-docker-agent-ubuntu-17-10
 teamcity-docker-complete-agent

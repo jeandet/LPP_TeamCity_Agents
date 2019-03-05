@@ -25,3 +25,9 @@
 [submodule "teamcity-docker-agent-fedora-HPC"]
 	path = teamcity-docker-agent-fedora-HPC
 	url = https://github.com/jeandet/teamcity-docker-agent-fedora-HPC
+[submodule "teamcity-docker-in-docker"]
+	path = teamcity-docker-in-docker
+	url = https://github.com/jeandet/teamcity-docker-in-docker
+[submodule "teamcity-docker-agent-fedora-lppic"]
+	path = teamcity-docker-agent-fedora-lppic
+	url = https://github.com/antoinelpp/teamcity-docker-agent-fedora-lppic
